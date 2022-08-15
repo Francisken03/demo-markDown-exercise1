@@ -42,5 +42,5 @@ This is a demo of showing texts with an *asterisk* that will not be italicized. 
 [My Trello board](https://trello.com/b/peYZBbnG/individual-project "Trello Tool-tip")
 
 <!--Image Display-->
-![This is an image of a cat](https://www.pexels.com/photo/majestic-tiger-lying-against-stone-wall-in-sanctuary-5611588/ "Big Cat Image")
+![This is an image of a cat](https://image.shutterstock.com/image-photo/majestic-silver-tabby-young-adult-600w-1135548224.jpg "Big Cat Image")
 
