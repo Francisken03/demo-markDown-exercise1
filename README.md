@@ -8,6 +8,6 @@
 ###### Heading 6
 This is a MarkDown demo
 
-<--Italic-->
+<!--Italic-->
 _This sentence is going to be italic using underscores._
 *This sentence is going to be italic using a Star.*
