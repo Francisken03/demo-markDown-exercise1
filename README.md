@@ -15,3 +15,7 @@ _This sentence is going to be italic using underscores._
 <!--Strong-->
 This will show as a bold-style text using asterisk. **Strong**
 This will show as a bold-style text using underscores. __Strong__
+
+<!--Horizontal Rule-->
+Using triple hyphens, we will be able to create horizontal rules to separate content.
+---
