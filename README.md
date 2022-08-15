@@ -44,4 +44,4 @@ This is a demo of showing texts with an *asterisk* that will not be italicized. 
 <!--Image Display-->
 ![This is an image of a cat](https://image.shutterstock.com/image-photo/majestic-silver-tabby-young-adult-600w-1135548224.jpg "Big Cat Image")
 
-https://image.shutterstock.com/image-photo/majestic-silver-tabby-young-adult-600w-1135548224.jpg
+(https://image.shutterstock.com/image-photo/majestic-silver-tabby-young-adult-600w-1135548224.jpg)
