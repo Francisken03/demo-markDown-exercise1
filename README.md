@@ -35,5 +35,7 @@ This is a demo of showing texts with an *asterisk* that will not be italicized. 
 >This is going to be displayed as a quote with a background and line on the left side.
 
 <!--Creating links using MarkDown-->
-**NOTE** The text that will go with the link should be in brackets and the links in pharenthesis.
+**NOTE** The text that will go with the link should be in brackets and the links in parenthesis.
 [My Trello board](https://trello.com/b/peYZBbnG/individual-project)
+**NOTE** if we want to add a title tooltip, add a space inside a parenthesis with quotes to displpay a baloon tip.
+[My Trello board](https://trello.com/b/peYZBbnG/individual-project "Trello Tool-tip")
