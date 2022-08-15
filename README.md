@@ -10,4 +10,8 @@ This is a MarkDown demo
 
 <!--Italic-->
 _This sentence is going to be italic using underscores._
-*This sentence is going to be italic using a Star.*
+*This sentence is going to be italic using stars.*
+
+<!--Strong-->
+This will show as a bold-style text using asterisk. **Strong**
+This will show as a bold-style text using underscores. __Strong__
