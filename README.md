@@ -24,8 +24,13 @@ Using triple hyphens, we will be able to create horizontal rules to separate con
 
 ---
 <!--Another Horizontal Rule-->
-Using triple hyphens, we will be able to create horizontal rules to separate content.
+Using triple hyphens, we will be able to create horizontal rules to separate content.<
 ___
 
 <!--Escape character using backslash-->
 This is a demo of showing texts with an *asterisk* that will not be italicized. \*asterisk*
+
+---
+<!--Block Quote-->
+>This is going to be displayed as a quote with a background and line on the left side.
+>
